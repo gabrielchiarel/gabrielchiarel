@@ -1,4 +1,4 @@
-👋 Hi, I’m @gabrielchiarel, and I'm working to become an experient and good engineer software, by now I'm currently studying systems analysis and development
+👋 Hi, I’m @gabrielchiarel, and I'm working to become an experient and good software engineer, by now I'm currently studying systems analysis and development
 on UNISINOS in Rio Grande do Sul - Brazil.
 
 <!---
